@@ -1,0 +1,62 @@
+[
+    {
+        "no": 2340,
+        "word": "scissors",
+        "meaning": "가위",
+        "level": "초등"
+    },
+    {
+        "no": 230,
+        "word": "bank",
+        "meaning": "둑",
+        "level": "초등"
+    },
+    {
+        "no": 727,
+        "word": "danger",
+        "meaning": "위험",
+        "level": "초등"
+    },
+    {
+        "no": 2158,
+        "word": "rain",
+        "meaning": "비",
+        "level": "초등"
+    },
+    {
+        "no": 1246,
+        "word": "glove",
+        "meaning": "장갑",
+        "level": "초등"
+    },
+    {
+        "no": 613,
+        "word": "contest",
+        "meaning": "겨루다",
+        "level": "초등"
+    },
+    {
+        "no": 877,
+        "word": "door",
+        "meaning": "문",
+        "level": "초등"
+    },
+    {
+        "no": 693,
+        "word": "crowd",
+        "meaning": "군중",
+        "level": "초등"
+    },
+    {
+        "no": 1835,
+        "word": "nurse",
+        "meaning": "유모",
+        "level": "초등"
+    },
+    {
+        "no": 718,
+        "word": "cute",
+        "meaning": "귀여운",
+        "level": "초등"
+    }
+]
