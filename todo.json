@@ -1,0 +1,10 @@
+[
+    {
+        "todo_name": "퇴근하기",
+        "todo_complete": false
+    },
+    {
+        "todo_name": "출근하기",
+        "todo_complete": true
+    }
+]
