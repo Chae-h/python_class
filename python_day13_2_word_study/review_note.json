@@ -1,0 +1,62 @@
+[
+    {
+        "no": 16,
+        "word": "academy",
+        "meaning": "학술원",
+        "level": "초등"
+    },
+    {
+        "no": 1232,
+        "word": "get",
+        "meaning": "얻다",
+        "level": "초등"
+    },
+    {
+        "no": 78,
+        "word": "agree",
+        "meaning": "동의하다",
+        "level": "초등"
+    },
+    {
+        "no": 2757,
+        "word": "touch",
+        "meaning": "닿다",
+        "level": "초등"
+    },
+    {
+        "no": 447,
+        "word": "chair",
+        "meaning": "의장",
+        "level": "초등"
+    },
+    {
+        "no": 705,
+        "word": "curious",
+        "meaning": "이상스러운",
+        "level": "초등"
+    },
+    {
+        "no": 1319,
+        "word": "hate",
+        "meaning": "미워하다",
+        "level": "초등"
+    },
+    {
+        "no": 2148,
+        "word": "quick",
+        "meaning": "빠른",
+        "level": "초등"
+    },
+    {
+        "no": 916,
+        "word": "eat",
+        "meaning": "먹다",
+        "level": "초등"
+    },
+    {
+        "no": 412,
+        "word": "captain",
+        "meaning": "우두머리(chief)",
+        "level": "초등"
+    }
+]
