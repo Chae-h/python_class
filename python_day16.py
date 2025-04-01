@@ -324,3 +324,24 @@ from matplotlib.dates import num2timedelta
 
 # 키에 해당하는 값을 찾고 그 값을 result에 넣어 둔다.
 # 키에 해당하는 값이 없을 경우 예외처리
+
+
+# [숙제 풀이]
+
+my_dict = {1: "사과", 2: "바나나", 3: "딸기", 4: "포도", 5: "수박"}
+
+try:
+    key = int(input("과일의 번호(1~5)를 입력하세요: "))  # 숫자로 받기
+    result = my_dict[key]  # 딕셔너리 키 조회
+
+except ValueError:
+    print("숫자를 입력 해주세요.")  # 문자를 입력한 경우
+
+except KeyError:
+    print("해당 키는 존재하지 않습니다.")  # 존재하지 않는 키 입력
+
+else:
+    print("선택한 과일:", result)  # 정상적으로 값 출력
+
+finally:
+    print("완료")
